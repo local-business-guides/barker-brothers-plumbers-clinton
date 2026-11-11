@@ -23,6 +23,9 @@
 - [Best Plumber Ut Clinton for Home Plumbing Needs](https://local-business-guides.github.io/barker-brothers-plumbers-clinton/best-plumber-ut-clinton/): Best Plumber Ut Clinton: get clear guidance for a plumbing concern. Call Barker Brothers Plumbers in Clinton, Utah, and discuss what you need today.
 - [Top Rated Plumber Ut Clinton: Questions to Ask](https://local-business-guides.github.io/barker-brothers-plumbers-clinton/top-rated-plumber-ut-clinton/): Top Rated Plumber Ut Clinton: compare answers and plan your next step. Call Barker Brothers Plumbers in Clinton, Utah, to discuss your plumbing concern.
 
+## Newsroom
+- [Barker Brothers Plumbers Publishes Guide to Plumber In Clinton UT](https://local-business-guides.github.io/barker-brothers-plumbers-clinton/news/2026-11-11-barker-brothers-plumbers-publishes-guide-to/): Barker Brothers Plumbers published a Clinton plumbing guide this week, with related video, podcast and SoundCloud audio versions. (2026-11-11)
+
 ## Pages
 - [Plumber in Clinton, Utah](https://local-business-guides.github.io/barker-brothers-plumbers-clinton/): Get help with plumbing concerns from Barker Brothers Plumbers, serving Clinton with a clear way to reach us. Call +1435-253-7185.
 - [About Barker Brothers Plumbers](https://local-business-guides.github.io/barker-brothers-plumbers-clinton/about/): About Barker Brothers Plumbers, Clinton.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/barker-brothers-plumbers-clinton/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/barker-brothers-plumbers-clinton/news/rss.xml)
 - [Main resource site](https://barker-brothers-clinton.localbusinesses1.chatgpt.site)
